@@ -6,8 +6,8 @@ cadeia:real
 INICIO
 Var horas_trabalhadas,horas_trabalhadas_extra,salariobruto,salarioliquido;
 
-escreva "Digite o número de Horas Trabalhadas"
-escreva "Digite o número de Horas Trabalhadas Extra"
+leia "Digite o número de Horas Trabalhadas"
+leia "Digite o número de Horas Trabalhadas Extra"
 
 salariobruto = (horas_trabalhadas*10)+(horas_trabalhadas*15)
 salarioliquido = (salariobruto-(salariobruto*0.10)
