@@ -6,7 +6,7 @@ inteiro valorCarlosAndre
 cadeia:REAL
     
 INICIO    
-  escreva("Digite o valor total da conta: ")
+  leia("Digite o valor total da conta: ")
     
 converter o valor total para real
   valorTotal <- real(input)
