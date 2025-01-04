@@ -4,9 +4,9 @@ lata350ml,garrafa600ml,garrafa2L,litostotal
 cadeia:REAL
 
 INICIO
- escreva ("Quantidade...350ml")
- escreva ("Quantidade...600ml")
- escreva ("Quantidade...2L")
+ leia("Quantidade...350ml")
+ leia("Quantidade...600ml")
+ leia("Quantidade...2L")
 
 litrostotal = (lata350ml * 0.35) + (garrafa600ml * 0.6) + (garrafa2L * 2)
 
