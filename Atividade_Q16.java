@@ -36,10 +36,10 @@ SANDUICHES / SE / SENAO / QUEIJO / PRESUNTO / HAMBURGUER /
 
  */
 
-package com.mycompany.atividade_q2;
+package com.mycompany.atividade_q16;
 import javax.swing.JOptionPane;
 
-public class Atividade_Q2 {
+public class Atividade_Q16 {
 
     public static void main(String[] args) {
         int sanduiches;
