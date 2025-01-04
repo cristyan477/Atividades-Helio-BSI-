@@ -13,13 +13,13 @@ queijo = 0.05 + 0.05
 presunto = 0.05 
 hamburge = 0.10 
 
-imprima se (valor maior que 0)
-  (Total de Queijo...)
-  (Total de Presunto...)
-  (Total de Hambuguer...)
+se (valor maior que 0)
+ escreva("Total de Queijo...")
+ escreva("Total de Presunto...")
+ escreva("Total de Hambuguer...")
 
-imprima se não(valor menor)
-  (Valor invalido)
+senão
+ escreva("Valor invalido")
 
 fim
 
@@ -29,10 +29,6 @@ SANDUICHES / SE / SENAO / QUEIJO / PRESUNTO / HAMBURGUER /
     2        V     -       200g      100g     200g
     0        -     F        -          -         -   
    -0        -     F        -          -         - 
-
-
-
-
 
  */
 
