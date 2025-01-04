@@ -39,10 +39,10 @@ TOTAL / CARLOS / ANDRE / FELIPE / IF / ELSE / IMPRIMIR
 
  */
 
-package com.mycompany.atividade_q1;
+package com.mycompany.atividade_q15;
 import javax.swing.JOptionPane;
         
-public class Atividade_Q1 {
+public class Atividade_Q15 {
 
     public static void main(String[] args) {
         String input = JOptionPane.showInputDialog("Digite o valor total da conta:");
