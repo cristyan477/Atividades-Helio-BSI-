@@ -48,7 +48,7 @@ public class Atividade_Q4 {
         salariobruto = (horas_trabalhadas*10)+(horas_trabalhadas_extra*15);
         salarioliquido = salariobruto-(salariobruto*0.10);
         
-        if ((horas_trabalhadas > -1) && (horas_trabalhadas_extra > -1))
+        if ((horas_trabalhadas >= -1) && (horas_trabalhadas_extra >= -1))
         {
         JOptionPane.showMessageDialog(null, String.format("o Salário Bruto é: %.2f", + salariobruto));
         JOptionPane.showMessageDialog(null, String.format("o Salário líquido é: %.2f", + salarioliquido));
