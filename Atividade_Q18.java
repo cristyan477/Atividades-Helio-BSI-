@@ -30,10 +30,10 @@ HORAS_TRABALHADAS / HORAS_TRABALHADASEXTRA / SE / SENAO / SALIQUIDO / SALBRUTO
 
  */
 
-package com.mycompany.atividade_q4;
+package com.mycompany.atividade_q18;
 
 import javax.swing.JOptionPane;
-public class Atividade_Q4 {
+public class Atividade_Q18 {
 
     public static void main(String[] args) {
        double horas_trabalhadas,horas_trabalhadas_extra,salariobruto,salarioliquido;
