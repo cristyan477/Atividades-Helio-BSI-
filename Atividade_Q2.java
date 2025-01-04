@@ -53,7 +53,7 @@ public class Atividade_Q2 {
         presunto = sanduiches*0.05;
         hamburguer = sanduiches*0.10;
         
-        if (sanduiches > 0)
+        if (sanduiches >= 0)
         {
         JOptionPane.showMessageDialog(null, String.format("O Total de Queijo é: %.3f gramas", + queijo));
         JOptionPane.showMessageDialog(null, String.format("O Total de Pesunto é: %.3f gramas", + presunto));
