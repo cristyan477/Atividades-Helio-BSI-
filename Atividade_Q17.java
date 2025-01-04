@@ -22,10 +22,10 @@ CELSIUS / FAHRENHEIT / IMPRIMA /
 
  */
 
-package com.mycompany.atividade_q3;
+package com.mycompany.atividade_q17;
 import javax.swing.JOptionPane;
 
-public class Atividade_Q3 {
+public class Atividade_Q17 {
 
     public static void main(String[] args) {
         double celsius,fahrenheit;
