@@ -4,7 +4,7 @@ salariobruto,salarioliquido
 cadeia:real
 
 INICIO
-Var horas_trabalhadas,horas_trabalhadas_extra,salariobruto,salarioliquido;
+horas_trabalhadas,horas_trabalhadas_extra,salariobruto,salarioliquido;
 
 leia "Digite o número de Horas Trabalhadas"
 leia "Digite o número de Horas Trabalhadas Extra"
