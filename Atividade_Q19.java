@@ -30,10 +30,10 @@ FRANGOS / SE / SENAO / GASTO /
 
  */
 
-package com.mycompany.atividade_q5;
+package com.mycompany.atividade_q19;
 import javax.swing.JOptionPane;
 
-public class Atividade_Q5 {
+public class Atividade_Q19 {
 
     public static void main(String[] args) {
       int frangos;
