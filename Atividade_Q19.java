@@ -5,7 +5,7 @@ anelchip,anelalimentos,gasto
 cadeia:real
 
 INICIO
-escreva ("Quantidade de frangos")
+leia ("Quantidade de frangos")
 
 valores
 anelchip = 4
