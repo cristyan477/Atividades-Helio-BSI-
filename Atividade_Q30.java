@@ -1,7 +1,7 @@
 /*
  VAR
  p_grande,p_medio,p_pequeno,tempo_de_empresa,total
-cadeia:REAL
+cadeia:INTEIRO
 
 INICIO
  leia("Projetos Grandes:")
