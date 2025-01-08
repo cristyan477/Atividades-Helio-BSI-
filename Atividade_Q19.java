@@ -1,8 +1,8 @@
 /*
  VAR
 inteiro:fragos
-anelchip,anelalimentos,gasto
-cadeia:real
+real:anelchip,anelalimentos,gasto
+
 
 INICIO
 leia ("Quantidade de frangos")
