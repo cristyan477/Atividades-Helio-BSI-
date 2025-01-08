@@ -1,7 +1,6 @@
 /*
  VAR
-inteiro:blusas
-novelos,novelosporblusas
+blusas,novelos,novelosporblusas
 cadeia:REAL
 
 INICIO
