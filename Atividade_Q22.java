@@ -1,7 +1,7 @@
 /*
  VAR
-moeda1cent,moeda5cent,moeda10cent,moeda25cent,moeda50cent,moeda1real,total
-cadeia:REAL
+inteiro:moeda1cent,moeda5cent,moeda10cent,moeda25cent,moeda50cent,moeda1real
+real:total
 
 INICIO
  leia ("Quantidade de moedas de 1 centavos:") 
