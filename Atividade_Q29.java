@@ -1,6 +1,7 @@
 /*
 VAR
 a,b
+cadeia:REAL
 
 INICIO
  leia ("O coeficiente de A:")
