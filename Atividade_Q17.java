@@ -1,7 +1,7 @@
 /*
  VAR
-real:celsius,fahrenheit
-cadeia
+celsius,fahrenheit
+cadeia:REAL
 
 INICIO
 leia
